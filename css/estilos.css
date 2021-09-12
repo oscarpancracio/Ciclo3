@@ -1,0 +1,32 @@
+#text1
+{
+    color: rgb(rgb(248, 14, 14)); 
+    font-size: 30px;
+}
+
+.text2
+{
+color: rgb(248, 154, 14);
+font-size: 25px;
+text-align: center;
+}
+
+.text3
+ {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: var(--animate-duration);
+    animation-duration: var(--animate-duration);
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+ }
+ 
+#text4
+{
+   -webkit-animation-duration: 1s;
+   animation-duration: 1s;
+   -webkit-animation-duration: var(--animate-duration);
+   animation-duration: var(--animate-duration);
+   -webkit-animation-fill-mode: both;
+   animation-fill-mode: both;
+}
